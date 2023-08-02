@@ -1,0 +1,32 @@
+header {
+    background: #23232e86;
+    padding: 200px;
+   
+}
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+    color: #e0d8ce;
+    padding: 50px;
+    margin: 1000;
+   
+
+}
+
+.big {
+    color: #6f665b;
+   
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+li {
+    list-style: none;
+    margin-top: 40px;
+}
